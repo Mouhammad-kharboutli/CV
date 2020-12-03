@@ -84,6 +84,9 @@ width: 30%;
 margin: 10px auto;
 }
 
+.skills{
+  padding-bottom: 1rem;
+}
 .skill-row{
   width: 50%;
   margin: 2rem auto;
@@ -117,6 +120,10 @@ margin: 10px auto;
 .contact-me{
   width: 50%;
   margin: 1rem auto 0;
+  padding-top: 1rem;
+}
+.getintouch{
+  margin-top: 0;
 }
 .contact-header{
   text-align: center;
