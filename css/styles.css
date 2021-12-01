@@ -17,22 +17,21 @@ h2 {
   margin-bottom: 2rem;
   margin-top: 2rem;
 }
-hr{
+hr {
   margin: 3rem auto;
   width: 10%;
   border-style: dotted none none;
   border-color: grey;
   border-width: 6px;
-
 }
-h3{
-  color: #11999E;
+h3 {
+  color: #11999e;
   text-align: left;
 }
-a{
+a {
   text-decoration: none;
 }
-a:hover{
+a:hover {
   color: white;
 }
 
@@ -65,87 +64,87 @@ a:hover{
   text-decoration: underline;
 }
 
-.top-container{
+.top-container {
   margin-bottom: 20%;
-  padding-bottom: 10.2rem;
+  padding-bottom: 5.9rem;
 }
-.middle-container{
+.middle-container {
   background-color: white;
   margin-bottom: 0;
   padding-bottom: 0;
 }
-.personal-img{
-margin: 2.5rem auto 0.5rem;
+.personal-img {
+  margin: 2.5rem auto 0.5rem;
   height: 10rem;
   width: 10rem;
 }
-.personal-intro{
-width: 30%;
-margin: 10px auto;
+.personal-intro {
+  width: 30%;
+  margin: 10px auto;
 }
 
-.skills{
+.skills {
   padding-bottom: 1rem;
 }
-.skill-row{
+.skill-row {
   width: 50%;
   margin: 2rem auto;
   padding-top: 0.2rem;
-  padding-bottom: 0.2rem;
+  padding-bottom: 0rem;
 }
 
-.title{
+.title {
   font-family: "Shadows Into Light", cursive;
   margin-bottom: 0.2rem;
   text-align: left;
 }
-.content{
+.content {
   font-family: "Shadows Into Light", cursive;
 }
 
-.chillie{
+.chillie {
   height: 30%;
   width: 30%;
-  margin-left: 1rem ;
+  margin-left: 2rem;
   float: right;
 }
 
 .programming-skill {
   height: 30%;
   width: 30%;
-  margin-right: 1rem ;
+  margin-right: 2rem;
   float: left;
 }
 
-.contact-me{
+.contact-me {
   width: 50%;
   margin: 1rem auto 0;
-  padding-top: 1rem;
+  padding-top: 0rem;
 }
-.getintouch{
-  margin-top: 0;
+.getintouch {
+  margin-top: 0.5rem;
 }
-.contact-header{
+.contact-header {
   text-align: center;
   margin: 1rem auto;
   font-family: "Shadows Into Light", cursive;
 }
-.contact-p{
+.contact-p {
   width: 60%;
   margin: 1rem auto;
   font-size: 1rem;
 }
 .btn {
-  background: #66BFBF;
-  background-image: -webkit-linear-gradient(top, #66BFBF, #5AE4E4);
-  background-image: -moz-linear-gradient(top, #66BFBF, #5AE4E4);
-  background-image: -ms-linear-gradient(top, #66BFBF, #5AE4E4);
-  background-image: -o-linear-gradient(top, #66BFBF, #5AE4E4);
-  background-image: -webkit-gradient(to bottom, #66BFBF, #5AE4E4);
+  background: #66bfbf;
+  background-image: -webkit-linear-gradient(top, #66bfbf, #5ae4e4);
+  background-image: -moz-linear-gradient(top, #66bfbf, #5ae4e4);
+  background-image: -ms-linear-gradient(top, #66bfbf, #5ae4e4);
+  background-image: -o-linear-gradient(top, #66bfbf, #5ae4e4);
+  background-image: -webkit-gradient(to bottom, #66bfbf, #5ae4e4);
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-family: Open Sans;
   font-size: 20px;
   font-weight: 100;
@@ -154,7 +153,7 @@ margin: 10px auto;
   -moz-box-shadow: 1px 1px 20px 0 #000000;
   box-shadow: 1px 1px 20px 0 #000000;
   text-shadow: 1px 1px 20px #000000;
-  border: solid #66BFBF 1px;
+  border: solid #66bfbf 1px;
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
@@ -163,32 +162,31 @@ margin: 10px auto;
 }
 
 .btn:hover {
-  border: solid #FFFFFF 1px;
-  background: #4FDDDD;
-  background-image: -webkit-linear-gradient(top, #4FDDDD, #23E9E9);
-  background-image: -moz-linear-gradient(top, #4FDDDD, #23E9E9);
-  background-image: -ms-linear-gradient(top, #4FDDDD, #23E9E9);
-  background-image: -o-linear-gradient(top, #4FDDDD, #23E9E9);
-  background-image: -webkit-gradient(to bottom, #4FDDDD, #23E9E9);
+  border: solid #ffffff 1px;
+  background: #4fdddd;
+  background-image: -webkit-linear-gradient(top, #4fdddd, #23e9e9);
+  background-image: -moz-linear-gradient(top, #4fdddd, #23e9e9);
+  background-image: -ms-linear-gradient(top, #4fdddd, #23e9e9);
+  background-image: -o-linear-gradient(top, #4fdddd, #23e9e9);
+  background-image: -webkit-gradient(to bottom, #4fdddd, #23e9e9);
   -webkit-border-radius: 9px;
   -moz-border-radius: 9px;
   border-radius: 9px;
   text-decoration: none;
 }
 
-.bottom-container{
-  background-color: #66BFBF;
+.bottom-container {
+  background-color: #66bfbf;
   padding: 3rem;
   margin: 0;
 }
-.footer-link{
-margin: 1rem;
-  color:#0c6d70;
+.footer-link {
+  margin: 1rem;
+  color: #0c6d70;
 }
-.p-foot{
-  color:#EAF6F6;
+.p-foot {
+  color: #eaf6f6;
   font-size: 0.8rem;
   margin-top: 1rem;
   font-family: "Shadows Into Light", cursive;
 }
-
